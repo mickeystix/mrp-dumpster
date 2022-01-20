@@ -28,7 +28,7 @@ To integrate with qb-target, add this to the init.lua (sometimes called the "con
 
 Original - https://github.com/PhantomDDK/qb-dumpsters
 Optimization rework - https://github.com/SebeCK73/qb-dumpster
-Mickey's rework - You're looking at it, but also  https://github.com/mickeystix/qb-dumpster
+Mickey's rework - You're looking at it, but also  https://github.com/mickeystix/mrp-dumpster
 
 qb-target is required - https://github.com/BerkieBb/qb-target
 
