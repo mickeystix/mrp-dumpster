@@ -32,7 +32,7 @@ Mickey's rework - You're looking at it, but also  https://github.com/mickeystix/
 
 qb-target is required - https://github.com/BerkieBb/qb-target
 
-Items and everything needs to be configure to your liking in the config.lua
+Additional items you want players to get need to be configured in the config.lua
 
 Support my work - https://www.buymeacoffee.com/mickeystix
 
