@@ -1,4 +1,4 @@
-# qb-dumpster
+# qmrpmpster
 This is a rework by Mickey#4910 (Mickeystix/Marcus) for use with BerkieBb's qb-target.
 
 Using qb-target, you can initiate dumpster diving. If the dumpster is valid (meaning it has not been searched) then you get random items (see config.lua for item configuration, you can change amounts in server.lua). After a dumpster is searched, it is unavailable for 1-60 minutes (determined randomly, but can change in server.lua)
